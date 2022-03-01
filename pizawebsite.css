@@ -1,0 +1,91 @@
+
+body{
+	  background-color: black;
+ 
+}
+
+
+    
+
+ .about{    font-family: time new roman;
+	   color: black;
+	   width: 50%;
+	   font-size: 20px;
+	   font-weight: bold;
+	   background-image: url("zigzag.jpg");
+
+}
+.contactee{
+	        width:20%;
+	        font-size: 50px;
+	        background: pink;
+	        font-weight: bold;
+}
+.facebook{
+	         width: 50px;
+	         height: 60px;
+
+}
+.feedback{
+		position: absolute;
+		bottom: : 30%;
+		left:35%;
+		padding: 0 20px 20px 20px;
+		width:400px;
+		background: white;
+		border-radius: 10px;
+
+	}
+	.feedback form{
+		width: 100%;
+		text-align: center;
+		padding: 0px 0 10px 0;
+	}
+	form h1{
+		padding:10px 0;
+	}
+	form.id{
+             position: relative;
+	}
+	form input{
+		     width: 100%;
+		     height: 50px;
+		     margin: 4px 0;
+		     border:1px solid black;
+		     border-radius: 3px;
+		     background:white;
+	}
+	form textarea{
+		       margin-top: 4px;
+ 	          border:1px solid black;
+ 	          background:white;
+ 	      
+ 	         
+ 	         
+ 	          border-radius: 3px;
+ 	          width: 100%;
+ 	          font-size: 25px;
+ 	          
+	}
+ form button{
+ 	          margin-top: 5px;
+ 	          border: none;
+ 	          background: gray;
+ 	          color: black;
+ 	          padding: 10px 0;
+ 	          cursor:pointer;
+ 	          border-radius: 3px;
+ 	          width: 100%;
+ 	          font-size: 30px;
+ 	          font-weight: bold;
+ }
+ .welcome{
+		position: absolute;
+		font-size:40%;
+		top: 40%;
+		left:30%;
+		padding: 0 0 5px 0;
+		width:600px;
+		
+		border-radius: 5px;
+	}
